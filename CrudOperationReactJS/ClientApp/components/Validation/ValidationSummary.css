@@ -1,0 +1,13 @@
+﻿
+div.validation-summ{
+    font-weight:bold;
+    color:red;
+/*}
+div.validation-summ ul{*/
+    border: 1px solid red;
+    background: #fefbca;
+    border-radius: 5px;
+}
+div.validation-summ div{
+    margin: 3px 10px;
+}

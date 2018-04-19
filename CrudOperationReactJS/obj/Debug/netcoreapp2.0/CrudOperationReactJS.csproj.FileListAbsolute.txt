@@ -1,0 +1,10 @@
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\bin\Debug\netcoreapp2.0\CrudOperationReactJS.deps.json
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\bin\Debug\netcoreapp2.0\CrudOperationReactJS.runtimeconfig.json
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\bin\Debug\netcoreapp2.0\CrudOperationReactJS.runtimeconfig.dev.json
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\bin\Debug\netcoreapp2.0\CrudOperationReactJS.dll
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\bin\Debug\netcoreapp2.0\CrudOperationReactJS.pdb
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\obj\Debug\netcoreapp2.0\CrudOperationReactJS.csproj.CoreCompileInputs.cache
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\obj\Debug\netcoreapp2.0\CrudOperationReactJS.AssemblyInfoInputs.cache
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\obj\Debug\netcoreapp2.0\CrudOperationReactJS.AssemblyInfo.cs
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\obj\Debug\netcoreapp2.0\CrudOperationReactJS.dll
+E:\Projects EtekSol 2018\CrudOperationReactJS\CrudOperationReactJS\obj\Debug\netcoreapp2.0\CrudOperationReactJS.pdb

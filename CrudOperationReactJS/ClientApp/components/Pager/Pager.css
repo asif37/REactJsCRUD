@@ -1,0 +1,29 @@
+﻿ 
+div.pager{
+    text-align: left;
+}
+/*10.2.17c button, input{*/
+div.pager button, 
+div.pager input {
+    display: inline !important;
+    text-align: center;
+}
+/*input{
+    text-align: center;
+}*/
+/*10.2.17*/
+/*10.2.17c input[type=text]{*/
+div.pager input[type=text] {
+    width: 75px;
+}
+div.page-of{
+    display: inline-block;
+    padding:0 5px;
+}
+/*nw*/
+@media (max-width: 420px) {
+    /*10.2.17c input {*/
+    div.pager input {
+        max-width: 100px;
+    }
+}

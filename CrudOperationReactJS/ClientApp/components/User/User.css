@@ -1,0 +1,25 @@
+ 
+table.table{
+    display: block; /*inline-block;*/
+    max-width: 875px;
+    overflow-x: scroll;
+}
+button.action {
+    border: none;
+    text-decoration: underline;
+    background: inherit;
+}
+form input {
+    display: block !important;
+    text-align: left;
+}
+/*div.ReactModal__Content {
+    left: 25% !important;
+}*/
+th button {
+    border: none;
+    background: inherit;
+}
+th button:hover {
+    text-decoration: underline;
+}
